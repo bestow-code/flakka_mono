@@ -17,5 +17,4 @@ jobs:
           submodules: recursive
       - uses: ahmadnassri/action-dependabot-auto-merge@v2
         with:
-          target: minor
           github-token: ${{ secrets.AUTO_MERGE_GITHUB_TOKEN }}
