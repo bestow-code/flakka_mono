@@ -1,0 +1,3 @@
+[submodule "proto/flakkacore"]
+	path = proto/flakkacore
+	url = git@bestow.github.com:flakkacode/flakkacore
